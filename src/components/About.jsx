@@ -1,8 +1,9 @@
-import React from "react";
+import React from 'react';
 
 export default function About() {
   return (
-    <div className="space-y-4 text-[#94a3b8] text-[18px]">
+    <div className="space-y-4 text-[#94a3b8]  font-medium max-lg:mt-[100px]">
+      <div className="text-white lg:hidden">ABOUT</div>
       <div>
         Back in 2012, I decided to try my hand at creating custom Tumblr themes
         and tumbled head first into the rabbit hole of coding and web
