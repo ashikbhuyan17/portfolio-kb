@@ -7,7 +7,7 @@ export default function Project() {
       <div className="flex max-md:flex-col md:p-5 max-md:p-2 max-lg:gap-5 hover:bg-[rgba(51,70,102,0.5)] hover:rounded-md transition duration-300 delay-150 ease-in ">
         <div className="text-[16px] text-[#94a3b8] basis-4/12 mt-1 mr-3 ">
           <div className="w-[200px]">
-            <img src="/course-card.png" alt="" />
+            <img src="./course-card.png" alt="" />
           </div>
         </div>
         <div className="space-y-3 basis-11/12">
@@ -46,7 +46,7 @@ export default function Project() {
       <div className="flex max-md:flex-col md:p-5 max-md:p-2 max-lg:gap-5 hover:bg-[rgba(51,70,102,0.5)] hover:rounded-md transition duration-300 delay-150 ease-in ">
         <div className="text-[16px] text-[#94a3b8] basis-4/12 mt-1 mr-3">
           <div className="w-[200px]">
-            <img src="/spotify-profile.png" alt="" />
+            <img src="./spotify-profile.png" alt="" />
           </div>
         </div>
         <div className="space-y-3 basis-11/12">
